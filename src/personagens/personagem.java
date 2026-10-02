@@ -1,4 +1,6 @@
-public abstract class personagem {
+package personagens;
+
+class personagem {
 
     private String Nome;
     private int VidaMax;
